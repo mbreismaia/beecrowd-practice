@@ -1,6 +1,6 @@
 # Problemas do Beecrowd resolvidos usando a linguagem Javascript
 
-Soluções dos problemas do [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/all) usando a linguagem [Javascript]
+Soluções dos problemas do [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/all) usando a linguagem Javascript
 
 <!-- ## Problemas por Categoria
 
